@@ -1,5 +1,5 @@
 {
-  "name": "hc-sticky",
+  "name": "tc-hc-sticky",
   "description": "Cross-browser jQuery plugin that makes any element attached to the page and always visible while you scroll.",
   "version": "1.0",
   "main": "jquery.hc-sticky.js",
